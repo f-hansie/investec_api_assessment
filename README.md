@@ -10,7 +10,7 @@ investec_api_assessment [Get request api for :https://swapi.dev/api/people/ ] an
 
 ## Usage:
 
-- > clone the project from 
+- > clone the project from https://github.com/f-hansie/investec_api_assessment.git
 - > the test class to execute is located on this path: **src/test/java/ApiTest/GetPeopleListAPI.java**
 - > To run the test right click on the GetPeopleListAPI class and click run to execute
 - > once the test has finished to execute check results on the Run console
